@@ -1,17 +1,13 @@
 {
-  "fetchedAt": "2026-11-01T11:50:58.045Z",
+  "fetchedAt": "2026-11-02T13:29:52.440Z",
   "login": "lajoonpark",
   "createdAt": "2026-03-27T22:43:25Z",
   "followers": 0,
-  "publicRepos": 9,
-  "stars": 2,
+  "publicRepos": 7,
+  "stars": 3,
   "forks": 0,
-  "releases": 22,
+  "releases": 18,
   "languages": [
-    {
-      "name": "TypeScript",
-      "bytes": 769418
-    },
     {
       "name": "Rust",
       "bytes": 426075
@@ -21,20 +17,24 @@
       "bytes": 279928
     },
     {
-      "name": "CSS",
-      "bytes": 197371
-    },
-    {
-      "name": "HTML",
-      "bytes": 182839
-    },
-    {
       "name": "Svelte",
       "bytes": 129514
     },
     {
+      "name": "TypeScript",
+      "bytes": 92074
+    },
+    {
+      "name": "CSS",
+      "bytes": 85960
+    },
+    {
+      "name": "HTML",
+      "bytes": 48758
+    },
+    {
       "name": "JavaScript",
-      "bytes": 105018
+      "bytes": 45667
     },
     {
       "name": "Astro",
@@ -46,10 +46,10 @@
     }
   ],
   "contributions": {
-    "total": 154,
-    "commits": 121,
-    "pullRequests": 12,
-    "issues": 10,
+    "total": 93,
+    "commits": 71,
+    "pullRequests": 6,
+    "issues": 7,
     "reviews": 0,
     "weeks": [
       [
@@ -1757,18 +1757,18 @@
       [
         {
           "date": "2026-09-20",
-          "count": 2,
-          "level": 1
+          "count": 0,
+          "level": 0
         },
         {
           "date": "2026-09-21",
-          "count": 15,
-          "level": 4
+          "count": 0,
+          "level": 0
         },
         {
           "date": "2026-09-22",
-          "count": 1,
-          "level": 1
+          "count": 0,
+          "level": 0
         },
         {
           "date": "2026-09-23",
@@ -1782,7 +1782,7 @@
         },
         {
           "date": "2026-09-25",
-          "count": 2,
+          "count": 1,
           "level": 1
         },
         {
@@ -1795,12 +1795,12 @@
         {
           "date": "2026-09-27",
           "count": 3,
-          "level": 2
+          "level": 1
         },
         {
           "date": "2026-09-28",
           "count": 3,
-          "level": 2
+          "level": 1
         },
         {
           "date": "2026-09-29",
@@ -1825,19 +1825,19 @@
         {
           "date": "2026-10-03",
           "count": 6,
-          "level": 3
+          "level": 2
         }
       ],
       [
         {
           "date": "2026-10-04",
-          "count": 12,
-          "level": 4
+          "count": 0,
+          "level": 0
         },
         {
           "date": "2026-10-05",
           "count": 3,
-          "level": 2
+          "level": 1
         },
         {
           "date": "2026-10-06",
@@ -1847,7 +1847,7 @@
         {
           "date": "2026-10-07",
           "count": 3,
-          "level": 2
+          "level": 1
         },
         {
           "date": "2026-10-08",
@@ -1868,18 +1868,18 @@
       [
         {
           "date": "2026-10-11",
-          "count": 12,
-          "level": 4
+          "count": 7,
+          "level": 2
         },
         {
           "date": "2026-10-12",
-          "count": 5,
-          "level": 3
+          "count": 0,
+          "level": 0
         },
         {
           "date": "2026-10-13",
-          "count": 5,
-          "level": 3
+          "count": 4,
+          "level": 2
         },
         {
           "date": "2026-10-14",
@@ -1888,8 +1888,8 @@
         },
         {
           "date": "2026-10-15",
-          "count": 2,
-          "level": 1
+          "count": 0,
+          "level": 0
         },
         {
           "date": "2026-10-16",
@@ -1898,14 +1898,14 @@
         },
         {
           "date": "2026-10-17",
-          "count": 8,
-          "level": 4
+          "count": 2,
+          "level": 1
         }
       ],
       [
         {
           "date": "2026-10-18",
-          "count": 2,
+          "count": 1,
           "level": 1
         },
         {
@@ -1915,18 +1915,18 @@
         },
         {
           "date": "2026-10-20",
-          "count": 4,
-          "level": 2
+          "count": 2,
+          "level": 1
         },
         {
           "date": "2026-10-21",
-          "count": 4,
-          "level": 2
+          "count": 0,
+          "level": 0
         },
         {
           "date": "2026-10-22",
-          "count": 3,
-          "level": 2
+          "count": 1,
+          "level": 1
         },
         {
           "date": "2026-10-23",
@@ -1942,8 +1942,8 @@
       [
         {
           "date": "2026-10-25",
-          "count": 4,
-          "level": 2
+          "count": 2,
+          "level": 1
         },
         {
           "date": "2026-10-26",
@@ -1981,6 +1981,11 @@
           "date": "2026-11-01",
           "count": 2,
           "level": 1
+        },
+        {
+          "date": "2026-11-02",
+          "count": 0,
+          "level": 0
         }
       ]
     ]
@@ -1991,21 +1996,9 @@
       "description": null,
       "url": "https://github.com/lajoonpark/Cadence",
       "homepage": null,
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
-      "pushedAt": "2026-11-01T06:37:53Z",
-      "language": null,
-      "release": null,
-      "releaseCount": 0
-    },
-    {
-      "name": "lodestar",
-      "description": null,
-      "url": "https://github.com/lajoonpark/lodestar",
-      "homepage": null,
-      "stars": 0,
-      "forks": 0,
-      "pushedAt": "2026-11-01T00:00:51Z",
+      "pushedAt": "2026-11-02T06:48:01Z",
       "language": null,
       "release": null,
       "releaseCount": 0
@@ -2017,8 +2010,20 @@
       "homepage": "https://lajoonpark-com.vercel.app",
       "stars": 0,
       "forks": 0,
-      "pushedAt": "2026-10-31T10:55:44Z",
+      "pushedAt": "2026-11-01T11:50:58Z",
       "language": "CSS",
+      "release": null,
+      "releaseCount": 0
+    },
+    {
+      "name": "lodestar",
+      "description": null,
+      "url": "https://github.com/lajoonpark/lodestar",
+      "homepage": null,
+      "stars": 1,
+      "forks": 0,
+      "pushedAt": "2026-11-01T00:00:51Z",
+      "language": null,
       "release": null,
       "releaseCount": 0
     },
@@ -2050,18 +2055,6 @@
       "releaseCount": 0
     },
     {
-      "name": "The-Action-Party-Website",
-      "description": null,
-      "url": "https://github.com/lajoonpark/The-Action-Party-Website",
-      "homepage": "https://the-action-party-website.vercel.app",
-      "stars": 0,
-      "forks": 0,
-      "pushedAt": "2026-10-28T19:11:59Z",
-      "language": "HTML",
-      "release": null,
-      "releaseCount": 0
-    },
-    {
       "name": "Dragon",
       "description": null,
       "url": "https://github.com/lajoonpark/Dragon",
@@ -2072,21 +2065,6 @@
       "language": null,
       "release": null,
       "releaseCount": 0
-    },
-    {
-      "name": "Delta-V",
-      "description": null,
-      "url": "https://github.com/lajoonpark/Delta-V",
-      "homepage": null,
-      "stars": 1,
-      "forks": 0,
-      "pushedAt": "2026-10-19T19:20:16Z",
-      "language": "TypeScript",
-      "release": {
-        "tag": "v2.2.0",
-        "publishedAt": "2026-10-17T19:17:13Z"
-      },
-      "releaseCount": 4
     },
     {
       "name": "DriftWood",

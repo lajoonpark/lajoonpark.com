@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-07T11:44:07.257Z",
+  "fetchedAt": "2026-11-08T11:56:49.371Z",
   "login": "lajoonpark",
   "createdAt": "2026-03-27T22:43:25Z",
   "followers": 0,
@@ -52,43 +52,6 @@
     "issues": 7,
     "reviews": 0,
     "weeks": [
-      [
-        {
-          "date": "2025-11-02",
-          "count": 0,
-          "level": 0
-        },
-        {
-          "date": "2025-11-03",
-          "count": 0,
-          "level": 0
-        },
-        {
-          "date": "2025-11-04",
-          "count": 0,
-          "level": 0
-        },
-        {
-          "date": "2025-11-05",
-          "count": 0,
-          "level": 0
-        },
-        {
-          "date": "2025-11-06",
-          "count": 0,
-          "level": 0
-        },
-        {
-          "date": "2025-11-07",
-          "count": 0,
-          "level": 0
-        },
-        {
-          "date": "2025-11-08",
-          "count": 0,
-          "level": 0
-        }
-      ],
       [
         {
           "date": "2025-11-09",
@@ -2012,18 +1975,25 @@
           "count": 1,
           "level": 1
         }
+      ],
+      [
+        {
+          "date": "2026-11-08",
+          "count": 0,
+          "level": 0
+        }
       ]
     ]
   },
   "repos": [
     {
-      "name": "Cadence",
+      "name": "Sienna",
       "description": null,
-      "url": "https://github.com/lajoonpark/Cadence",
+      "url": "https://github.com/lajoonpark/Sienna",
       "homepage": null,
       "stars": 1,
       "forks": 0,
-      "pushedAt": "2026-11-07T09:00:58Z",
+      "pushedAt": "2026-11-08T07:33:54Z",
       "language": null,
       "release": null,
       "releaseCount": 0
@@ -2035,7 +2005,7 @@
       "homepage": null,
       "stars": 1,
       "forks": 0,
-      "pushedAt": "2026-11-07T08:59:35Z",
+      "pushedAt": "2026-11-07T21:49:47Z",
       "language": null,
       "release": null,
       "releaseCount": 0
@@ -2047,7 +2017,7 @@
       "homepage": "https://lajoonpark-com.vercel.app",
       "stars": 0,
       "forks": 0,
-      "pushedAt": "2026-11-06T12:57:28Z",
+      "pushedAt": "2026-11-07T11:44:08Z",
       "language": "CSS",
       "release": null,
       "releaseCount": 0

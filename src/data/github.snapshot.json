@@ -1,44 +1,36 @@
 {
-  "fetchedAt": "2026-11-08T11:56:49.371Z",
+  "fetchedAt": "2026-11-09T13:54:17.904Z",
   "login": "lajoonpark",
   "createdAt": "2026-03-27T22:43:25Z",
   "followers": 0,
-  "publicRepos": 7,
+  "publicRepos": 5,
   "stars": 3,
   "forks": 0,
-  "releases": 18,
+  "releases": 10,
   "languages": [
-    {
-      "name": "Rust",
-      "bytes": 426075
-    },
     {
       "name": "Swift",
       "bytes": 279928
     },
     {
-      "name": "Svelte",
-      "bytes": 129514
-    },
-    {
-      "name": "TypeScript",
-      "bytes": 92074
-    },
-    {
       "name": "CSS",
-      "bytes": 85960
+      "bytes": 79412
     },
     {
       "name": "HTML",
-      "bytes": 48758
+      "bytes": 48415
     },
     {
       "name": "JavaScript",
-      "bytes": 45667
+      "bytes": 42836
     },
     {
       "name": "Astro",
       "bytes": 13934
+    },
+    {
+      "name": "TypeScript",
+      "bytes": 10816
     },
     {
       "name": "Shell",
@@ -46,10 +38,10 @@
     }
   ],
   "contributions": {
-    "total": 94,
-    "commits": 71,
-    "pullRequests": 6,
-    "issues": 7,
+    "total": 65,
+    "commits": 49,
+    "pullRequests": 5,
+    "issues": 5,
     "reviews": 0,
     "weeks": [
       [
@@ -1651,8 +1643,8 @@
         },
         {
           "date": "2026-09-07",
-          "count": 1,
-          "level": 1
+          "count": 0,
+          "level": 0
         },
         {
           "date": "2026-09-08",
@@ -1735,40 +1727,40 @@
         },
         {
           "date": "2026-09-23",
-          "count": 2,
-          "level": 1
+          "count": 0,
+          "level": 0
         },
         {
           "date": "2026-09-24",
-          "count": 1,
-          "level": 1
+          "count": 0,
+          "level": 0
         },
         {
           "date": "2026-09-25",
-          "count": 1,
-          "level": 1
+          "count": 0,
+          "level": 0
         },
         {
           "date": "2026-09-26",
-          "count": 2,
-          "level": 1
+          "count": 0,
+          "level": 0
         }
       ],
       [
         {
           "date": "2026-09-27",
-          "count": 3,
-          "level": 1
+          "count": 0,
+          "level": 0
         },
         {
           "date": "2026-09-28",
-          "count": 3,
-          "level": 1
+          "count": 0,
+          "level": 0
         },
         {
           "date": "2026-09-29",
-          "count": 1,
-          "level": 1
+          "count": 0,
+          "level": 0
         },
         {
           "date": "2026-09-30",
@@ -1777,18 +1769,18 @@
         },
         {
           "date": "2026-10-01",
-          "count": 1,
-          "level": 1
+          "count": 0,
+          "level": 0
         },
         {
           "date": "2026-10-02",
-          "count": 2,
-          "level": 1
+          "count": 0,
+          "level": 0
         },
         {
           "date": "2026-10-03",
-          "count": 6,
-          "level": 2
+          "count": 0,
+          "level": 0
         }
       ],
       [
@@ -1799,8 +1791,8 @@
         },
         {
           "date": "2026-10-05",
-          "count": 3,
-          "level": 1
+          "count": 0,
+          "level": 0
         },
         {
           "date": "2026-10-06",
@@ -1832,7 +1824,7 @@
         {
           "date": "2026-10-11",
           "count": 7,
-          "level": 2
+          "level": 3
         },
         {
           "date": "2026-10-12",
@@ -1905,8 +1897,8 @@
       [
         {
           "date": "2026-10-25",
-          "count": 2,
-          "level": 1
+          "count": 0,
+          "level": 0
         },
         {
           "date": "2026-10-26",
@@ -1972,13 +1964,18 @@
         },
         {
           "date": "2026-11-07",
-          "count": 1,
-          "level": 1
+          "count": 0,
+          "level": 0
         }
       ],
       [
         {
           "date": "2026-11-08",
+          "count": 0,
+          "level": 0
+        },
+        {
+          "date": "2026-11-09",
           "count": 0,
           "level": 0
         }
@@ -1993,8 +1990,20 @@
       "homepage": null,
       "stars": 1,
       "forks": 0,
-      "pushedAt": "2026-11-08T07:33:54Z",
+      "pushedAt": "2026-11-09T07:34:44Z",
       "language": null,
+      "release": null,
+      "releaseCount": 0
+    },
+    {
+      "name": "lajoonpark.com",
+      "description": null,
+      "url": "https://github.com/lajoonpark/lajoonpark.com",
+      "homepage": "https://lajoonpark-com.vercel.app",
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-11-08T11:56:50Z",
+      "language": "CSS",
       "release": null,
       "releaseCount": 0
     },
@@ -2007,18 +2016,6 @@
       "forks": 0,
       "pushedAt": "2026-11-07T21:49:47Z",
       "language": null,
-      "release": null,
-      "releaseCount": 0
-    },
-    {
-      "name": "lajoonpark.com",
-      "description": null,
-      "url": "https://github.com/lajoonpark/lajoonpark.com",
-      "homepage": "https://lajoonpark-com.vercel.app",
-      "stars": 0,
-      "forks": 0,
-      "pushedAt": "2026-11-07T11:44:08Z",
-      "language": "CSS",
       "release": null,
       "releaseCount": 0
     },
@@ -2048,33 +2045,6 @@
       "language": null,
       "release": null,
       "releaseCount": 0
-    },
-    {
-      "name": "Dragon",
-      "description": null,
-      "url": "https://github.com/lajoonpark/Dragon",
-      "homepage": null,
-      "stars": 0,
-      "forks": 0,
-      "pushedAt": "2026-10-26T04:22:29Z",
-      "language": null,
-      "release": null,
-      "releaseCount": 0
-    },
-    {
-      "name": "DriftWood",
-      "description": "An AI harness/app/MCP server that investigates you files and gives you detailed reports on which can be deleted.",
-      "url": "https://github.com/lajoonpark/DriftWood",
-      "homepage": null,
-      "stars": 0,
-      "forks": 0,
-      "pushedAt": "2026-10-05T03:53:56Z",
-      "language": "Rust",
-      "release": {
-        "tag": "v1.5.0",
-        "publishedAt": "2026-10-03T04:44:13Z"
-      },
-      "releaseCount": 8
     }
   ]
 }

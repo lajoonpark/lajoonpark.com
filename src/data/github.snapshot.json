@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-11-10T13:28:19.997Z",
+  "fetchedAt": "2026-11-11T12:43:32.763Z",
   "login": "lajoonpark",
   "createdAt": "2026-03-27T22:43:25Z",
   "followers": 0,
-  "publicRepos": 5,
+  "publicRepos": 6,
   "stars": 3,
   "forks": 0,
   "releases": 10,
@@ -13,16 +13,16 @@
       "bytes": 279928
     },
     {
+      "name": "JavaScript",
+      "bytes": 94403
+    },
+    {
       "name": "CSS",
       "bytes": 79412
     },
     {
       "name": "HTML",
       "bytes": 48415
-    },
-    {
-      "name": "JavaScript",
-      "bytes": 42836
     },
     {
       "name": "Astro",
@@ -35,11 +35,15 @@
     {
       "name": "Shell",
       "bytes": 4564
+    },
+    {
+      "name": "Dockerfile",
+      "bytes": 384
     }
   ],
   "contributions": {
-    "total": 66,
-    "commits": 49,
+    "total": 72,
+    "commits": 53,
     "pullRequests": 6,
     "issues": 5,
     "reviews": 0,
@@ -1983,6 +1987,11 @@
           "date": "2026-11-10",
           "count": 1,
           "level": 1
+        },
+        {
+          "date": "2026-11-11",
+          "count": 6,
+          "level": 2
         }
       ]
     ]
@@ -1995,8 +2004,20 @@
       "homepage": null,
       "stars": 1,
       "forks": 0,
-      "pushedAt": "2026-11-10T05:03:37Z",
+      "pushedAt": "2026-11-11T08:06:13Z",
       "language": null,
+      "release": null,
+      "releaseCount": 0
+    },
+    {
+      "name": "TradeMe-Scraper",
+      "description": null,
+      "url": "https://github.com/lajoonpark/TradeMe-Scraper",
+      "homepage": null,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-11-11T06:21:53Z",
+      "language": "JavaScript",
       "release": null,
       "releaseCount": 0
     },
@@ -2007,7 +2028,7 @@
       "homepage": "https://lajoonpark-com.vercel.app",
       "stars": 0,
       "forks": 0,
-      "pushedAt": "2026-11-09T13:54:18Z",
+      "pushedAt": "2026-11-10T13:28:21Z",
       "language": "CSS",
       "release": null,
       "releaseCount": 0

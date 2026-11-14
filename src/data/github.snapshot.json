@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-11-13T13:07:07.292Z",
+  "fetchedAt": "2026-11-14T12:11:49.181Z",
   "login": "lajoonpark",
   "createdAt": "2026-03-27T22:43:25Z",
   "followers": 0,
-  "publicRepos": 6,
+  "publicRepos": 7,
   "stars": 3,
   "forks": 0,
   "releases": 10,
@@ -11,6 +11,10 @@
     {
       "name": "Swift",
       "bytes": 279928
+    },
+    {
+      "name": "TypeScript",
+      "bytes": 125722
     },
     {
       "name": "JavaScript",
@@ -29,21 +33,17 @@
       "bytes": 13934
     },
     {
-      "name": "TypeScript",
-      "bytes": 10816
-    },
-    {
       "name": "Shell",
       "bytes": 4564
     },
     {
       "name": "Dockerfile",
-      "bytes": 384
+      "bytes": 941
     }
   ],
   "contributions": {
-    "total": 73,
-    "commits": 53,
+    "total": 81,
+    "commits": 60,
     "pullRequests": 7,
     "issues": 5,
     "reviews": 0,
@@ -2002,11 +2002,28 @@
           "date": "2026-11-13",
           "count": 0,
           "level": 0
+        },
+        {
+          "date": "2026-11-14",
+          "count": 8,
+          "level": 3
         }
       ]
     ]
   },
   "repos": [
+    {
+      "name": "trading-view-scraper",
+      "description": null,
+      "url": "https://github.com/lajoonpark/trading-view-scraper",
+      "homepage": null,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-11-14T05:48:26Z",
+      "language": "TypeScript",
+      "release": null,
+      "releaseCount": 0
+    },
     {
       "name": "Sienna",
       "description": null,
@@ -2014,7 +2031,7 @@
       "homepage": null,
       "stars": 1,
       "forks": 0,
-      "pushedAt": "2026-11-13T07:37:57Z",
+      "pushedAt": "2026-11-14T02:15:20Z",
       "language": null,
       "release": null,
       "releaseCount": 0
@@ -2026,7 +2043,7 @@
       "homepage": "https://lajoonpark-com.vercel.app",
       "stars": 0,
       "forks": 0,
-      "pushedAt": "2026-11-12T13:45:58Z",
+      "pushedAt": "2026-11-13T13:07:08Z",
       "language": "CSS",
       "release": null,
       "releaseCount": 0

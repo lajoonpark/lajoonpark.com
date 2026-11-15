@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-14T12:11:49.181Z",
+  "fetchedAt": "2026-11-15T12:44:42.726Z",
   "login": "lajoonpark",
   "createdAt": "2026-03-27T22:43:25Z",
   "followers": 0,
@@ -48,43 +48,6 @@
     "issues": 5,
     "reviews": 0,
     "weeks": [
-      [
-        {
-          "date": "2025-11-09",
-          "count": 0,
-          "level": 0
-        },
-        {
-          "date": "2025-11-10",
-          "count": 0,
-          "level": 0
-        },
-        {
-          "date": "2025-11-11",
-          "count": 0,
-          "level": 0
-        },
-        {
-          "date": "2025-11-12",
-          "count": 0,
-          "level": 0
-        },
-        {
-          "date": "2025-11-13",
-          "count": 0,
-          "level": 0
-        },
-        {
-          "date": "2025-11-14",
-          "count": 0,
-          "level": 0
-        },
-        {
-          "date": "2025-11-15",
-          "count": 0,
-          "level": 0
-        }
-      ],
       [
         {
           "date": "2025-11-16",
@@ -2008,10 +1971,29 @@
           "count": 8,
           "level": 3
         }
+      ],
+      [
+        {
+          "date": "2026-11-15",
+          "count": 0,
+          "level": 0
+        }
       ]
     ]
   },
   "repos": [
+    {
+      "name": "lajoonpark.com",
+      "description": null,
+      "url": "https://github.com/lajoonpark/lajoonpark.com",
+      "homepage": "https://lajoonpark-com.vercel.app",
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-11-14T12:11:50Z",
+      "language": "CSS",
+      "release": null,
+      "releaseCount": 0
+    },
     {
       "name": "trading-view-scraper",
       "description": null,
@@ -2033,18 +2015,6 @@
       "forks": 0,
       "pushedAt": "2026-11-14T02:15:20Z",
       "language": null,
-      "release": null,
-      "releaseCount": 0
-    },
-    {
-      "name": "lajoonpark.com",
-      "description": null,
-      "url": "https://github.com/lajoonpark/lajoonpark.com",
-      "homepage": "https://lajoonpark-com.vercel.app",
-      "stars": 0,
-      "forks": 0,
-      "pushedAt": "2026-11-13T13:07:08Z",
-      "language": "CSS",
       "release": null,
       "releaseCount": 0
     },

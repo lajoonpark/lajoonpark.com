@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-25T15:36:31.939Z",
+  "fetchedAt": "2026-11-26T15:16:24.501Z",
   "login": "lajoonpark",
   "createdAt": "2026-03-27T22:43:25Z",
   "followers": 0,
@@ -18,7 +18,7 @@
     },
     {
       "name": "JavaScript",
-      "bytes": 94403
+      "bytes": 100310
     },
     {
       "name": "CSS",
@@ -42,9 +42,9 @@
     }
   ],
   "contributions": {
-    "total": 110,
-    "commits": 60,
-    "pullRequests": 36,
+    "total": 120,
+    "commits": 61,
+    "pullRequests": 45,
     "issues": 5,
     "reviews": 0,
     "weeks": [
@@ -1990,7 +1990,12 @@
         },
         {
           "date": "2026-11-25",
-          "count": 3,
+          "count": 12,
+          "level": 4
+        },
+        {
+          "date": "2026-11-26",
+          "count": 1,
           "level": 1
         }
       ]
@@ -2004,8 +2009,20 @@
       "homepage": "https://sienna-gamma.vercel.app",
       "stars": 1,
       "forks": 0,
-      "pushedAt": "2026-11-25T07:39:21Z",
+      "pushedAt": "2026-11-26T07:24:20Z",
       "language": null,
+      "release": null,
+      "releaseCount": 0
+    },
+    {
+      "name": "TradeMe-Scraper",
+      "description": null,
+      "url": "https://github.com/lajoonpark/TradeMe-Scraper",
+      "homepage": null,
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-11-25T19:23:53Z",
+      "language": "JavaScript",
       "release": null,
       "releaseCount": 0
     },
@@ -2016,7 +2033,7 @@
       "homepage": "https://lajoonpark-com.vercel.app",
       "stars": 0,
       "forks": 0,
-      "pushedAt": "2026-11-24T15:53:18Z",
+      "pushedAt": "2026-11-25T15:36:33Z",
       "language": "CSS",
       "release": null,
       "releaseCount": 0
@@ -2030,18 +2047,6 @@
       "forks": 0,
       "pushedAt": "2026-11-14T05:48:26Z",
       "language": "TypeScript",
-      "release": null,
-      "releaseCount": 0
-    },
-    {
-      "name": "TradeMe-Scraper",
-      "description": null,
-      "url": "https://github.com/lajoonpark/TradeMe-Scraper",
-      "homepage": null,
-      "stars": 0,
-      "forks": 0,
-      "pushedAt": "2026-11-11T06:21:53Z",
-      "language": "JavaScript",
       "release": null,
       "releaseCount": 0
     },
